@@ -40,12 +40,12 @@ html, body {
 }
 
 #home .border-mix {
-  /* border-style: dotted dashed inset outset; */
   border-style: dotted dashed double solid;
 }
 
 #home .centralizar {
   text-align: center;
+  /* padding: 50px 25px 100px 40px; */
 }
 
 #home .container {
